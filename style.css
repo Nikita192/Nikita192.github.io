@@ -1,0 +1,107 @@
+body{
+ margin: 0 auto;
+
+ background:url(fon.jpeg) reapeat;
+ }
+  .di {
+height: 100;
+margin-left: 27%;
+        font:top;
+    font-size: 100%;
+
+}
+  .d2{
+  
+
+font-size: 150%;
+height: 150;
+
+    
+  background: #01DFA5;
+ }
+   .d5{
+  
+padding: 15px;
+float:bottom;
+  background:#BDBDBD;
+  
+  margin-top:53.3%;
+
+  height:300px;
+    
+
+ }
+    .r1 {
+	    width: 160px; 
+  height: 100;
+    float: right; 
+    margin: 7px 0 7px 7px; 
+	
+   } 
+       .r2 {
+	    width: 500px; 
+  height: 300;
+ 
+    margin: 7px 0 7px 7px; 
+	
+   } 
+   
+       .r3 {
+	    width: 300px; 
+  height: 200;
+    
+    margin: 7px 0 7px 7px; 
+	
+   }
+ .bl1 { 
+	  margin-left: 27%;
+    width: 500px; 
+  height: 1000;
+    padding: 5px;
+    padding-right: 15px; 
+    border: solid 1px white; 
+    float: left;
+   }
+    .bl3 { 
+	  margin-right: ;
+    width: 300px; 
+  height: 1000;
+    padding: 5px;
+    padding-right: 15px; 
+    border: solid 1px white; 
+    float: left;
+   }
+    .bl2 { 
+	  margin-left: 27%;
+    width: 500px; 
+  height: 500;
+    padding: 5px;
+    padding-right: 15px; 
+    border: solid 1px white; 
+    float: left;
+   }
+	.k1{
+
+	height: 120;
+	width: 100;
+	}
+      .i1 {
+      	margin: 20%;
+    float:left; 
+    margin: 7px 7px 7px 0;
+align:center;
+height: 120;
+}
+  .i2 {
+      	margin: 20%;
+    float:left; 
+    margin: 7px 7px 7px 0;
+align:center;
+height: 20;
+}
+.P1{float: left;
+margin: 0px 0px 0px 27%;
+]
+.ss{float: right;
+margin: 0px 15px 10px 10px;
+]
